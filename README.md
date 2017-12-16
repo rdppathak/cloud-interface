@@ -1,2 +1,2 @@
 # cloud-interface
-A defined interface to ease public cloud operations like AWS/Azure/GCP.
+A defined interface to ease operations with public clouds like AWS/Azure/GCP.
